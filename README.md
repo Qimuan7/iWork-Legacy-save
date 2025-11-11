@@ -1,5 +1,6 @@
 ### CAUTION !
--If this infringes upon your rights, please let me know and I will delete or handle it appropriately.  I have not made any modifications to it. Plz do not use it if you are concerned about security.
+##### -If this infringes upon your rights, please let me know and I will delete or handle it appropriately.
+##### -I have not made any modifications to it. Plz do not use it if you are concerned about security.
 
 ### Why i upload ?
   Because the OS always tries to force me to use the latest system-version to use these apps, but I don't like new OS.
