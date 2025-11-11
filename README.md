@@ -26,4 +26,4 @@
 ##### [3] Although I'm a user of older operating systems and firmly refuse to use anything above OS 12 (because the T2 chip and online system installation cause me numerous errors, for reasons I don't understand), I still recommend that anyone else try a newer OS.
 Updating and iteration are always necessary. You can keep an old computer as a memento, but if you're using it for work, consider upgrading. As the saying goes, "A tool for making money should be efficient and functional, not just aesthetically pleasing. (吃飯的傢伙總是需要順手高效而不是好看)"
 
-#### Wish you have a great day anyway :).
+### Wish you have a great day anyway :).
