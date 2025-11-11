@@ -2,6 +2,9 @@
 ##### -If this infringes upon your rights, please let me know and I will delete or handle it appropriately.
 ##### -I have not made any modifications to it. Plz do not use it if you are concerned about security.
 
+### => What it did ?
+##### -I simply downloaded them, then used the compression function in the right-click menu to compress them into a .zip file, and saved it to my personal hard drive, no more.
+
 ---
 
 ### => Why i upload ?
