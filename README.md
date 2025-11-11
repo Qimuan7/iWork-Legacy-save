@@ -12,6 +12,9 @@
 ### => System version needed ?
 ##### OS 11 or above, because i haven't the older version. If u want the older version u may find the other web ?
 
+### => Download ?
+##### Download from release, forgive idk how to upload it to main repo.
+
 ---
 
 ### => Finally
